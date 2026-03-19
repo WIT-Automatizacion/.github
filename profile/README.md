@@ -86,15 +86,15 @@ Especialistas en automatización industrial e integración de sistemas para la i
 
 ## ⚙️ Casos de uso
 
-🔄 Automatización de procesos · Mejora de eficiencia en entornos productivos
+🔄 **Automatización de procesos** · Mejora de eficiencia en entornos productivos
 
-🏭 Integración de sistemas industriales · Conexión entre maquinaria y software empresarial
+🏭 **Integración de sistemas industriales** · Conexión entre maquinaria y software empresarial
 
-📊 Digitalización de procesos · Eliminación de tareas manuales y flujos ineficientes
+📊 **Digitalización de procesos** · Eliminación de tareas manuales y flujos ineficientes
 
-🛠️ Herramientas internas · Desarrollo de aplicaciones para gestión y control
+🛠️ **Herramientas internas** · Desarrollo de aplicaciones para gestión y control
 
-🔌 Integración de APIs · Comunicación entre sistemas y plataformas
+🔌 **Integración de APIs** · Comunicación entre sistemas y plataformas
 
 
 
