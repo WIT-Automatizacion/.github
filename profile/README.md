@@ -135,3 +135,4 @@ project/
 - 🌍 https://witautomatizacion.es/
 - ✉️ info@witautomatizacion.es
 - 📱 (+34) 810 524 550
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-WIT_Automatizacion-blue?logo=linkedin)](https://es.linkedin.com/company/wit-automatizaci%C3%B3n-s.l.)
