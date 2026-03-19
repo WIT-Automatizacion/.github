@@ -1,33 +1,30 @@
 # 🚀 WIT Automatización
 
-> Transformamos procesos en soluciones inteligentes.
-> Automatización, desarrollo y eficiencia al servicio de tu negocio.
+Transformamos procesos en soluciones inteligentes. Automatización, desarrollo y eficiencia al servicio de tu negocio.
 
----
+## ⚡ Filosofía
+
+Automatizar no es solo ahorrar tiempo, es escalar sin límites.
 
 ## 🌐 Sobre nosotros
 
-En **WIT Automatización** nos especializamos en diseñar e implementar soluciones tecnológicas que optimizan procesos, reducen costes y mejoran la productividad.
+En **WIT Automatización** diseñamos e implementamos soluciones tecnológicas que optimizan procesos, reducen costes y mejoran la productividad.
 
-Ayudamos a empresas a dar el salto hacia la automatización mediante desarrollo a medida e integración de sistemas.
-
----
+Ayudamos a empresas a evolucionar hacia entornos más eficientes mediante automatización, desarrollo a medida e integración de sistemas.
 
 ## 💡 Qué hacemos
 
 🔹 **Desarrollo de aplicaciones web**
-Creamos plataformas modernas, escalables y adaptadas a las necesidades del cliente.
+Creamos plataformas modernas, escalables y adaptadas a cada negocio.
 
 🔹 **Automatización de procesos**
-Eliminamos tareas repetitivas y manuales mediante flujos automatizados.
+Eliminamos tareas manuales mediante flujos automatizados eficientes.
 
 🔹 **Integración de sistemas**
-Conectamos herramientas, APIs y servicios para que todo funcione como un ecosistema.
+Conectamos herramientas, APIs y servicios para un ecosistema unificado.
 
 🔹 **Soluciones a medida**
-Cada proyecto es único: analizamos, diseñamos y desarrollamos con enfoque práctico.
-
----
+Analizamos cada caso para diseñar soluciones prácticas y escalables.
 
 ## 🛠️ Stack tecnológico
 
@@ -40,7 +37,7 @@ Cada proyecto es único: analizamos, diseñamos y desarrollamos con enfoque prá
 
 * Node.js
 * APIs REST
-* Microservicios
+* Arquitectura basada en servicios
 
 ### 🔗 Otros
 
@@ -48,85 +45,93 @@ Cada proyecto es único: analizamos, diseñamos y desarrollamos con enfoque prá
 * Automatización de workflows
 * Scripts y herramientas internas
 
----
+## 🧱 Arquitectura
+
+Trabajamos principalmente con una estructura basada en **MVC (Model - View - Controller)** para mantener una clara separación de responsabilidades:
+
+* **Model** → Lógica de negocio y acceso a datos
+* **View** → Interfaz / presentación
+* **Controller** → Gestión de flujo y comunicación
+
+Esto permite mantener el código escalable, mantenible y fácil de extender.
 
 ## 🔄 Metodología de trabajo
 
-Seguimos un flujo claro, colaborativo y orientado a calidad:
+El flujo de trabajo se basa en desarrollo local mediante clonación del repositorio y uso de ramas:
 
-1. 🌱 Crear una rama desde `main`
+1. 📥 Clonar el repositorio en local
+
+2. 🌱 Crear una rama:
 
    ```bash
-   feature/nombre-funcionalidad
+   feature/id-tarea
+   bug/id-tarea
    ```
 
-2. 💻 Desarrollar los cambios
+3. 💻 Desarrollar los cambios
 
-   * Código limpio y documentado
-   * Commits descriptivos
+   * Código limpio y estructurado
+   * Commits claros y descriptivos
 
-3. 🔀 Abrir Pull Request
+4. 🔀 Subir cambios y abrir Pull Request
 
-   * Explicar el propósito
-   * Referenciar tareas/incidencias
+5. 👀 Code Review
 
-4. 👀 Code Review
+   * Validación por el equipo
+   * Ajustes si es necesario
 
-   * Revisión por el equipo
-   * Ajustes si son necesarios
+6. ✅ Merge a `main` tras aprobación
 
-5. ✅ Merge a `main`
+## 🔐 Normas básicas
 
-   * Solo tras validación
+* ❌ No hacer push directo a `main`
+* ✅ Usar siempre Pull Requests
+* ✅ Seguir la estructura de ramas (`feature/`, `bug/`)
+* ✅ Revisar el código antes de hacer merge
+* ✅ Mantener commits claros y coherentes
 
----
+## 📂 Estructura del proyecto
 
-## 📏 Buenas prácticas
-
-✔️ Usar Pull Requests siempre
-✔️ Mantener consistencia en el código
-✔️ Escribir código legible y mantenible
-✔️ Documentar cuando sea necesario
-
-❌ No hacer push directo a `main`
-❌ No mergear sin revisión
-
----
-
-## 📂 Estructura recomendada
+Ejemplo de estructura basada en MVC:
 
 ```
 project/
 │
 ├── src/
+│   ├── models/
+│   ├── views/
+│   ├── controllers/
+│   └── services/
+│
 ├── docs/
 ├── tests/
 ├── README.md
 └── package.json
 ```
 
----
-
 ## 🤝 Cómo contribuir
 
-1. Haz fork del repositorio
-2. Crea una rama (`feature/...`)
-3. Realiza tus cambios
-4. Abre un Pull Request
+### 👨‍💻 Equipo interno
 
----
+1. Clonar el repositorio
+2. Crear una rama (`feature/...` o `bug/...`)
+3. Realizar los cambios
+4. Abrir un Pull Request
+
+### 🌍 Colaboradores externos
+
+1. Hacer fork del repositorio
+2. Clonar el fork
+3. Crear una rama
+4. Realizar los cambios
+5. Abrir un Pull Request al repositorio original
 
 ## 📫 Contacto
 
-¿Quieres automatizar procesos o desarrollar una solución a medida?
+¿Tienes un proyecto en mente o quieres automatizar procesos?
 
-🌍 https://witautomatizacion.es/
-📩 Contacta con nuestro equipo para más información
+👉 Escríbenos y te ayudamos:
 
----
-
-## ⚡ Filosofía
-
-> Automatizar no es solo ahorrar tiempo, es escalar sin límites.
-
----
+- 🌍 https://witautomatizacion.es/
+- ✉️ info@witautomatizacion.es
+- 📱 (+34) 810 524 550
