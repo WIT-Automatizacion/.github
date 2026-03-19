@@ -30,22 +30,17 @@ Especialistas en automatización industrial e integración de sistemas para la i
 
 ## 💡 Qué hacemos
 
-<p>
-<strong>Automatización industrial</strong> · Optimización de procesos productivos mediante sistemas de control  
-</p>
+&nbsp;⚙️ **Automatización industrial** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimización de procesos productivos mediante sistemas de control <br>
 
-<p>
-<strong>Desarrollo de aplicaciones</strong> · Software adaptado a entornos industriales y necesidades de negocio  
-</p>
+&nbsp;💻 **Desarrollo de aplicaciones** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software adaptado a entornos industriales y necesidades de negocio <br>
 
-<p>
-<strong>Integración de sistemas</strong> · Conexión de maquinaria, APIs y plataformas  
-</p>
+&nbsp;🔗 **Integración de sistemas** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conexión de maquinaria, APIs y plataformas <br>
 
-<p>
-<strong>Ingeniería a medida</strong> · Diseño e implementación de soluciones adaptadas a cada proyecto  
-</p>
-
+&nbsp;🧩 **Ingeniería a medida** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diseño e implementación de soluciones adaptadas a cada proyecto <br>
 
 <br>
 
@@ -91,25 +86,16 @@ Especialistas en automatización industrial e integración de sistemas para la i
 
 ## ⚙️ Casos de uso
 
-<p>
-<strong>Automatización de procesos</strong> · Mejora de eficiencia en entornos productivos  
-</p>
+🔄 Automatización de procesos · Mejora de eficiencia en entornos productivos
 
-<p>
-<strong>Integración de sistemas industriales</strong> · Conexión entre maquinaria y software empresarial  
-</p>
+🏭 Integración de sistemas industriales · Conexión entre maquinaria y software empresarial
 
-<p>
-<strong>Digitalización de procesos</strong> · Eliminación de tareas manuales y flujos ineficientes  
-</p>
+📊 Digitalización de procesos · Eliminación de tareas manuales y flujos ineficientes
 
-<p>
-<strong>Herramientas internas</strong> · Desarrollo de aplicaciones para gestión y control  
-</p>
+🛠️ Herramientas internas · Desarrollo de aplicaciones para gestión y control
 
-<p>
-<strong>Integración de APIs</strong> · Comunicación entre sistemas y plataformas  
-</p>
+🔌 Integración de APIs · Comunicación entre sistemas y plataformas
+
 
 
 
