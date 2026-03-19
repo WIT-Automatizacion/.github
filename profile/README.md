@@ -153,7 +153,7 @@ Podemos ayudarte a automatizar y escalar tu negocio.
 </p>
 
 <p align="center">
-  🌐 https://witautomatizacion.es/ &nbsp;&nbsp;  
+  🌐 https://witautomatizacion.es &nbsp;&nbsp;  
   ✉️ <a href="mailto:info@witautomatizacion.es">info@witautomatizacion.es</a> &nbsp;&nbsp;  
   📱 (+34) 810 524 550
 </p>
