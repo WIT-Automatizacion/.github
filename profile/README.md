@@ -1,6 +1,25 @@
-# 🚀 WIT Automatización
+<p align="center">
+  <img src="https://witautomatizacion.es/wp-content/uploads/2023/02/WIT_logo.svg" width="750"/>
+</p>
+<p align="center">Transformamos procesos en soluciones inteligentes. Automatización, desarrollo y eficiencia al servicio de tu negocio.</p>
 
-Transformamos procesos en soluciones inteligentes. Automatización, desarrollo y eficiencia al servicio de tu negocio.
+<br>
+
+<p align="center">
+   <a href="https://github.com/WIT-Automatizacion">
+     <img src="https://img.shields.io/badge/GitHub-WIT%20Automatización-000000?style=for-the-badge&logo=github"/>
+   </a>
+   &nbsp;&nbsp;&nbsp;
+   <a href="https://es.linkedin.com/company/wit-automatizaci%C3%B3n-s.l.">
+     <img src="https://img.shields.io/badge/LinkedIn-WIT%20Automatización-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   &nbsp;&nbsp;&nbsp;
+   <a href="https://witautomatizacion.es/">
+     <img src="https://img.shields.io/badge/Web-witautomatizacion.es-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+   </a>
+</p>
+
+<br><br>
 
 ## ⚡ Filosofía
 
@@ -28,22 +47,53 @@ Analizamos cada caso para diseñar soluciones prácticas y escalables.
 
 ## 🛠️ Stack tecnológico
 
-### 🎨 Frontend
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  &nbsp;
 
-* React
-* Angular
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-### ⚙️ Backend
+<p align="center">
+  <!-- Base de datos -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  &nbsp;
 
-* Node.js
-* APIs REST
-* Arquitectura basada en servicios
+  <!-- Arquitectura -->
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/API%20First-6A1B9A?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge"/>
+</p>
 
-### 🔗 Otros
+<p align="center">
+  <!-- Base web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  &nbsp;
+   
+  <!-- Control -->
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-* Integraciones con terceros
-* Automatización de workflows
-* Scripts y herramientas internas
+
+
 
 ## 🧱 Arquitectura
 
@@ -126,13 +176,14 @@ project/
 4. Realizar los cambios
 5. Abrir un Pull Request al repositorio original
 
-## 📫 Contacto
+## 📬 Contacto
 
-¿Tienes un proyecto en mente o quieres automatizar procesos?
+<p align="center">
+   <strong>¿Quieres automatizar procesos o mejorar tu sistema?</strong>
+</p>
 
-👉 Escríbenos y te ayudamos:
-
-- 🌍 https://witautomatizacion.es/
-- ✉️ info@witautomatizacion.es
-- 📱 (+34) 810 524 550
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-WIT_Automatizacion-blue?logo=linkedin)](https://es.linkedin.com/company/wit-automatizaci%C3%B3n-s.l.)
+<p align="center">
+   🌐 https://witautomatizacion.es/ <br>
+   ✉️ info@witautomatizacion.es <br>
+   📱 (+34) 810 524 550
+</p>
